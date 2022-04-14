@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mainFragment"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Home"/>
+    <item
+        android:id="@+id/fragmentRoom"
+        android:icon="@android:drawable/stat_sys_data_bluetooth"
+        android:title="db"/>
+    <item android:id="@+id/fragmentService"
+        android:icon="@android:drawable/stat_notify_error"
+        android:title="Service"/>
+</menu>
